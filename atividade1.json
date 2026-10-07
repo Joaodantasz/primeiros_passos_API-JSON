@@ -1,0 +1,8 @@
+{
+        "nome": "João",
+        "titulo": "The Batman",
+        "ano": 2022,
+        "diretor": "Matt Reeves",
+        "gênero": ["Ação", "Ficção", "Drama"],
+        "classificacao": "14 anos"
+    }
